@@ -6,3 +6,4 @@ __pycache__/
 .env
 staticpoisson_traces/
 burger_pics/
+kdv_traces/
