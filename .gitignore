@@ -7,3 +7,4 @@ __pycache__/
 staticpoisson_traces/
 burger_pics/
 kdv_traces/
+tentativeresults/bestkdv_cubic/kdv_predict_model_dict.pkl
